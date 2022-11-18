@@ -1,0 +1,21 @@
+-git innit
+inicializa projeto git
+
+-git add "arquivo.html"
+adiciona arquivo
+
+-git add .
+adiciona todos os arquivos da pasta
+
+-git status
+mostra status do git
+
+-git commit -m "adicionando javascript"
+adiciona um commit (nova versão)
+
+-git remote add origin https://github.com/yasminssobral/primeirorepositorio.git
+nomeia a url do repositorio do github
+
+-git push -u origin master
+envia para a url do repositorio
+
